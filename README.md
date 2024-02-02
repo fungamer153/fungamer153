@@ -6,6 +6,6 @@ Im **fungamer153**, this account serves as showcase and a work account for any p
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,c++,discord,bots,cs,py,blender,bash,figma,html,idea,java,lua,php,js,unity" />
+    <img src="https://skillicons.dev/icons?i=git,github,cpp,discord,bots,cs,py,blender,bash,figma,html,idea,java,lua,php,js,unity" />
   </a>
 </p>
