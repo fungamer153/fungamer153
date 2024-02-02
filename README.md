@@ -12,7 +12,6 @@ int main() {
     return 0;
 }
 ```
-<span style="color:red;">hello world</span>
 
 ## About me 👋
 <p>I am a programmer with a decade of programming experience under my belt, alongside 4 years of industry experience! I love putting my ideas into reality in game engines like <color>Unity</color>, <color>Godot</color>, & <color>Roblox Studio</color>,. 🖥️ <br>When out of the house, I enjoy lifting weights and jogging. My favourite sport has to be baseball. <br>I don't bite!</p>
@@ -23,3 +22,6 @@ int main() {
     <img src="https://skillicons.dev/icons?i=git,github,cpp,discord,bots,cs,py,blender,bash,figma,html,idea,java,lua,php,js,unity" />
   </a>
 </p>
+
+## Activity
+![Awesomeness counter](https://github-readme-stats.vercel.app/api?username=fungamer153&show_icons=true&theme=radical)
