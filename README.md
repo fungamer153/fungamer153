@@ -25,3 +25,4 @@ int main() {
 
 ## Activity
 ![Awesomeness counter](https://github-readme-stats.vercel.app/api?username=fungamer153&show_icons=true&theme=radical)
+![Used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fungamer153&hide_progress=true)
